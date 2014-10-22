@@ -19,7 +19,7 @@
 # When complete, commit to github and submit a pull request!
 
 numbers = 0     
-while(numbers <= 8):
+while(numbers <= 6):
     numbers = numbers + 2
     print numbers 
     if numbers == 8:

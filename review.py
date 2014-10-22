@@ -18,3 +18,10 @@
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
 
+numbers = 0     
+while(numbers <= 8):
+    numbers = numbers + 2
+    print numbers 
+    if numbers == 8:
+        print "who do we appreciate?"
+
